@@ -1,3 +1,7 @@
+// Axmad Xurshetov
+// Lab time: Monday 14:00
+// Student ID: 220122
+
 import 'package:flutter/material.dart';
 
 void main() {
